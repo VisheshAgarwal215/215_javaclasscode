@@ -19,7 +19,7 @@ public class Copyconstructor {
     }
 
     public static void main(String[] args){
-        Copyconstructor s1 = new Copyconstructor(101,"Santosh");
+        Copyconstructor s1 = new Copyconstructor(101,"Vishesh");
         Copyconstructor s2 = new Copyconstructor(s1);
         // s2.Emp_id = 102;
         // s2.Emp_name= "Kumar";
